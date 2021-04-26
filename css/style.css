@@ -2,6 +2,7 @@
     box-sizing:border-box;
     margin:0;
     padding:0;
+    font-family:Helvetica, Arial, sans-serif;
 }
 /* start class utility  */
 .clearfix::after{
@@ -29,6 +30,22 @@
     height:500px;
     background-size:cover;
     background-position:center;
+}
+.discaunt{
+    background-color:#d63b49;
+    color:white;
+    padding:5px;
+    position:absolute;
+    bottom:10px;
+    left:0;
+}
+.sostenibilità{
+    background-color:#3f8259;
+    color:white;
+    padding:5px;
+    position:absolute;
+    bottom:10px;
+    left:60px;
 }
 /* end class utility */
 .main-container{
