@@ -47,9 +47,26 @@
     bottom:10px;
     left:60px;
 }
+.interlinea{
+    line-height:25px;
+}
+.text{
+    font-weight: 300;
+    font-size:17px;
+}
+.price{
+    color:#d63b49;
+    font-weight:bold;
+    margin-top:10px;
+}
+.speciale{
+    background-color: #75ad51;
+    height:100px;
+    padding:10px 0 10px 10px;
+}
 /* end class utility */
 .main-container{
-    max-width:1100px;
+    max-width:1200px;
     min-width:200px;
     height:1040px;
     margin:20px auto 20px auto;
@@ -59,4 +76,16 @@
 }
 .due{
     background-image:url("../img/2.webp");
+}
+.tre{
+    background-image:url("../img/3.webp")
+}
+.quattro{
+    background-image:url("../img/4.webp")
+}
+.cinque{
+    background-image:url("../img/5.webp")
+}
+.sei{
+    background-image:url("../img/6.webp")
 }
